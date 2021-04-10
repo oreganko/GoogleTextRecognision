@@ -1,0 +1,101 @@
+Processing video for text detection.
+
+Text: i choć jenu tam nie idzie,
+start_time: 2.32, end_time: 5.68
+Confidence: 0.9468368887901306
+Time offset for the first frame: 2.32
+Rotated Bounding Box Vertices:
+        Vertex.x: 0.609375, Vertex.y: 0.2152777761220932
+        Vertex.x: 0.8798828125, Vertex.y: 0.2152777761220932
+        Vertex.x: 0.8798828125, Vertex.y: 0.2586805522441864
+        Vertex.x: 0.609375, Vertex.y: 0.2586805522441864
+
+Text: i choć jemu tam nie idzie,
+start_time: 5.8, end_time: 6.16
+Confidence: 0.9578539729118347
+Time offset for the first frame: 5.8
+Rotated Bounding Box Vertices:
+        Vertex.x: 0.609375, Vertex.y: 0.2152777761220932
+        Vertex.x: 0.8798828125, Vertex.y: 0.2152777761220932
+        Vertex.x: 0.8798828125, Vertex.y: 0.2586805522441864
+        Vertex.x: 0.609375, Vertex.y: 0.2586805522441864
+
+Text: gdzie indziej sobie szczęścia szukać nie chciat?
+start_time: 1.8399999999999999, end_time: 10.36
+Confidence: 0.9853413105010986
+Time offset for the first frame: 1.8399999999999999
+Rotated Bounding Box Vertices:
+        Vertex.x: 0.4951171875, Vertex.y: 0.2586805522441864
+        Vertex.x: 0.9892578125, Vertex.y: 0.2586805522441864
+        Vertex.x: 0.9892578125, Vertex.y: 0.3107638955116272
+        Vertex.x: 0.4951171875, Vertex.y: 0.3107638955116272
+
+Text: aby do jednego miejsca przyrastat
+start_time: 1.8399999999999999, end_time: 2.2
+Confidence: 1.0
+Time offset for the first frame: 1.8399999999999999
+Rotated Bounding Box Vertices:
+        Vertex.x: 0.5595703125, Vertex.y: 0.1684027761220932
+        Vertex.x: 0.9248046875, Vertex.y: 0.1684027761220932
+        Vertex.x: 0.9248046875, Vertex.y: 0.2204861044883728
+        Vertex.x: 0.5595703125, Vertex.y: 0.2204861044883728
+
+Text: Czy cztowiek grzyberm jest,
+start_time: 1.8399999999999999, end_time: 2.8
+Confidence: 0.9290210008621216
+Time offset for the first frame: 1.8399999999999999
+Rotated Bounding Box Vertices:
+        Vertex.x: 0.5986328125, Vertex.y: 0.1163194477558136
+        Vertex.x: 0.88671875, Vertex.y: 0.1163194477558136
+        Vertex.x: 0.88671875, Vertex.y: 0.171875
+        Vertex.x: 0.5986328125, Vertex.y: 0.171875
+
+Text: aby do jednego rmiejsca przyrastat
+start_time: 2.32, end_time: 3.52
+Confidence: 0.9783763289451599
+Time offset for the first frame: 2.32
+Rotated Bounding Box Vertices:
+        Vertex.x: 0.5595703125, Vertex.y: 0.1684027761220932
+        Vertex.x: 0.9248046875, Vertex.y: 0.1684027761220932
+        Vertex.x: 0.9248046875, Vertex.y: 0.2204861044883728
+        Vertex.x: 0.5595703125, Vertex.y: 0.2204861044883728
+
+Text: i choć jenu tan nie idzie,
+start_time: 1.8399999999999999, end_time: 2.2
+Confidence: 0.9418033957481384
+Time offset for the first frame: 1.8399999999999999
+Rotated Bounding Box Vertices:
+        Vertex.x: 0.609375, Vertex.y: 0.2152777761220932
+        Vertex.x: 0.8798828125, Vertex.y: 0.2152777761220932
+        Vertex.x: 0.8798828125, Vertex.y: 0.2586805522441864
+        Vertex.x: 0.609375, Vertex.y: 0.2586805522441864
+
+Text: Czy cztowiek grzybern jest,
+start_time: 2.92, end_time: 10.36
+Confidence: 0.9325399994850159
+Time offset for the first frame: 2.92
+Rotated Bounding Box Vertices:
+        Vertex.x: 0.5986328125, Vertex.y: 0.1163194477558136
+        Vertex.x: 0.88671875, Vertex.y: 0.1163194477558136
+        Vertex.x: 0.88671875, Vertex.y: 0.171875
+        Vertex.x: 0.5986328125, Vertex.y: 0.171875
+
+Text: i choć jemu tarm nie idzie,
+start_time: 7.96, end_time: 10.36
+Confidence: 0.9624308347702026
+Time offset for the first frame: 7.96
+Rotated Bounding Box Vertices:
+        Vertex.x: 0.607421875, Vertex.y: 0.2152777761220932
+        Vertex.x: 0.8779296875, Vertex.y: 0.2152777761220932
+        Vertex.x: 0.8779296875, Vertex.y: 0.2586805522441864
+        Vertex.x: 0.607421875, Vertex.y: 0.2586805522441864
+
+Text: i choć jemu tan nie idzie,
+start_time: 6.28, end_time: 7.84
+Confidence: 0.9386041760444641
+Time offset for the first frame: 6.28
+Rotated Bounding Box Vertices:
+        Vertex.x: 0.6083984375, Vertex.y: 0.2152777761220932
+        Vertex.x: 0.87890625, Vertex.y: 0.2152777761220932
+        Vertex.x: 0.87890625, Vertex.y: 0.2586805522441864
+        Vertex.x: 0.6083984375, Vertex.y: 0.2586805522441864
